@@ -105,9 +105,9 @@ function removeDefaultStyleElement(program: Program) {
 }
 
 export default RecipeBuilder()
-  .setName("Chakra UI")
-  .setDescription(`This will install all necessary dependencies and configure Chakra UI for use.`)
-  .setOwner("zekan.fran369@gmail.com")
+  .setName("Chakra UI Test")
+  .setDescription(`This will install and configure Chakra UI for use.`)
+  .setOwner("howey.matt@gmail.com")
   .setRepoLink("https://github.com/blitz-js/legacy-framework")
   .addAddDependenciesStep({
     stepId: "addDeps",

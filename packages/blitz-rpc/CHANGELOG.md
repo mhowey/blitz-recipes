@@ -1,5 +1,12 @@
 # @blitzjs/rpc
 
+## 2.0.0-beta.21
+
+### Patch Changes
+
+- 0025856: Support full api of tanstack invalidateQueries
+  - blitz@2.0.0-beta.21
+
 ## 2.0.0-beta.20
 
 ### Minor Changes
